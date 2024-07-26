@@ -3,6 +3,8 @@ Instructions on how I hosted a WordPress website on AWS. After my previous AWS D
 
 ## Reference architecture 
 
+![Alt text](WordPress-AWS-Architecture.png)
+
 ## The Infrastructure Setup
 
 **Configure VPC**
