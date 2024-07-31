@@ -31,7 +31,7 @@ Instructions on how I hosted a WordPress website on AWS. After my previous AWS D
       - It allows users to access the website hosted on servers in the private subnet
       - Created a target group witht the servers in it so that the ALB will route traffic to the servers in that target group.
 
-**EC2 instance connect endpoint
+**EC2 instance connect endpoint**
   - Enabled me to have secure connections to assets within bothe the public and private subnets. Eliminated the need for SSH connections.
       - This minimizes the risks associated with handling and managing SSH keys. Improved security!
 
